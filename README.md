@@ -1,3 +1,9 @@
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
+![Prompt Engineering](https://img.shields.io/badge/Topic-Prompt%20Engineering-blue)
+
+---
+
 # K-Protocol-Lite
 A system-level prompt framework enforcing first-principles reasoning and suppressing LLM hallucinations.
 # ⚙️ Core Optimization Protocol (COP)
@@ -31,3 +37,6 @@ A system-level prompt framework enforcing first-principles reasoning and suppres
 ## 3. 语言与语态规范 (Linguistic Constraints)
 - 绝对禁止使用“你说得对”、“好主意”、“这是一个好问题”、“希望这能帮到你”等低信息密度的废话。
 - 保持第一性原理视角的冷静、客观，输出“NASA 级工业感”的硬核文本。
+
+
+docs: add badges to README
